@@ -64,27 +64,4 @@ Want to improve this system? We’d love to see your contributions! 🙌
 2. **Create a new branch** for your feature:
    ```bash
    git checkout -b feature-name
-Make your changes and commit:
-bash
-Copy
-Edit
-git commit -m "Added new feature: Online booking"
-Push and create a pull request—we’ll review it quickly!
-📜 License
-This project is licensed under the MIT License.
-
-Feel free to use and modify it as needed!
-
-🎉 Thank You for Exploring!
-We hope this project provides a great foundation for your hotel management system. If you have any ideas or run into issues, don’t hesitate to reach out! 👋
-
-pgsql
-Copy
-Edit
-
-You can **copy and paste** this section into your existing `README.md` file to finish off your GitHub presentation! 🚀
-
-
-
-
-
+#
