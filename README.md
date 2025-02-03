@@ -42,13 +42,6 @@ Easily handle different room types like standard, deluxe, or suite with pricing 
 
 ---
 
-# 🛠️ Installation Guide  
-
-### Clone the repo using the following command:
-
-bash
-git clone https://github.com/your_username/hotel_management_system.git
-cd hotel_management_system
 # 🔧 Customization  
 This project is designed to be easily customizable:  
 
