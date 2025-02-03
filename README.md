@@ -17,7 +17,8 @@ Managing a hotel is no easy task, but with the right tools, it can feel like a b
 
 ## 🏗️ **Project Structure**
 
-```plaintext
+
+plaintext
 GN211_hotel_yousef_ali/
 │
 ├── 📂 class_customer.py      # Manages customer data and interactions
@@ -44,7 +45,8 @@ Easily handle different room types like standard, deluxe, or suite with pricing 
 # 🛠️ Installation Guide  
 
 ### Clone the repo using the following command:
-```bash
+
+bash
 git clone https://github.com/your_username/hotel_management_system.git
 cd hotel_management_system
 # 🔧 Customization  
@@ -56,12 +58,5 @@ This project is designed to be easily customizable:
 
 ---
 
-# 🤝 Contributions Welcome!  
 
-Want to improve this system? We’d love to see your contributions! 🙌  
-
-1. **Fork the project** on GitHub.  
-2. **Create a new branch** for your feature:
-   ```bash
-   git checkout -b feature-name
 #
